@@ -30,7 +30,7 @@ export default class Intro extends Component {
               <div className="col-10 mx-auto mb-3">
                 <div className="img-container ">
                   <img
-                    src="../img/h3.jpg"
+                    src="../img/featured.jpg"
                     className="img-fluid gallery-item-border"
                   ></img>
                 </div>

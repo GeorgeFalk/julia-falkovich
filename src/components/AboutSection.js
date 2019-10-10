@@ -33,7 +33,7 @@ export default class AboutSection extends Component {
                 <div className="card img-left ">
                   <div className="img-container">
                     <img
-                      src="../img/h3.jpg"
+                      src="../img/h2.jpg"
                       alt=""
                       className="card-img-top"
                       ref="box1"
