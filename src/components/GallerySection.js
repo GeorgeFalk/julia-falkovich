@@ -62,7 +62,7 @@ export default class extends Component {
                   ref="boxleft"
                   className="img-fluid img-featured gallery-item-border"
                 />
-                <div className="featured-img-info" style={{ width: "30%" }}>
+                <div className="featured-img-info" style={{ width: "40%" }}>
                   <p className="logo-font text-light text-center mb-0">
                     Julia Falkovich
                   </p>
