@@ -5,7 +5,7 @@ export default class Intro extends Component {
   render() {
     return (
       <React.Fragment>
-        <div className="container intro-info">
+        <div className="container">
           <div className="logo-res">
             <h2
               className="logo-font text-center logo-res"
@@ -22,7 +22,7 @@ export default class Intro extends Component {
 
             <TitleUnderline />
             <p>0559-888-336</p>
-            <p className="muted ">
+            <p className="muted">
               אנו מזמנים אתכם לבקר אצלנו בסטודיו לעיצוב שיער ואיפור מקצועי לכל
               אירוע ולקבל חוייה מדהימה מיחס אישי כלפי כל לקוח
             </p>
