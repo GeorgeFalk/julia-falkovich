@@ -194,10 +194,10 @@ nav {
   }
 
   .small-res {
-    font-size: 0.8rem !important;
+    font-size: 1rem !important;
   }
 
   .intro-info {
-    min-height: calc(110vh - 98px);
+    min-height: calc(100vh - 98px);
   }
 }
