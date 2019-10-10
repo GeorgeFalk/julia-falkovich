@@ -7,7 +7,6 @@ export default class Navbar extends Component {
     const config = {
       origin: "left",
       duration: 1000,
-
       distance: "200px",
       easing: "ease"
     };
