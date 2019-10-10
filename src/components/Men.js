@@ -6,11 +6,11 @@ export default class Men extends Component {
     return (
       <React.Fragment>
         <div className="container">
-          <div className="py-5 px-5" style={{ "margin-top": "-120px" }}>
-            <h2 className="logo-font" style={{ "font-size": "5rem" }}>
+          <div className="py-5 px-5 logo-res">
+            <h2 className="logo-font logo-res" style={{ "font-size": "5rem" }}>
               Julia Falkovich
             </h2>
-            <h1>
+            <h1 className="intro-text-res">
               חיפה, רחוב נורדאו 19
               <span>
                 <i class="fas fa-map-marked-alt mx-3"></i>

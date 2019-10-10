@@ -4,7 +4,7 @@ export default class extends Component {
   render() {
     return (
       <section id="contacts">
-        <div className="container py-5">
+        <div className="container pt-4">
           <div className="row">
             <div className="col-10 mx-auto col-lg-6">
               <div className="embed-responsive embed-responsive-16by9 map">
