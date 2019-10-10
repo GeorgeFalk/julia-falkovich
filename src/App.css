@@ -195,6 +195,9 @@ nav {
   }
 
   #intro-section {
-    min-height: 100vh;
+    font-size: 0.8rem !important;
+  }
+  .res-text {
+    font-size: 1rem !important;
   }
 }

@@ -37,7 +37,7 @@ export default class Intro extends Component {
               </div>
             </div>
 
-            <p className="lead text-muted">
+            <p className="lead text-muted res-text">
               ג'וליה פלקוביץ' היא מעצבת שיער ומאפרת מקצועית בעלת ניסיון רב ועשיר
               עם יכולת לספק שירות מקצועי ואישי לכל רצון של לקוח
             </p>
