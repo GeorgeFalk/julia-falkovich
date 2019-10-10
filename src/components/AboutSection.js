@@ -33,7 +33,7 @@ export default class AboutSection extends Component {
                 <div className="card img-left ">
                   <div className="img-container">
                     <img
-                      src="../img/h3.jpg"
+                      src="../public/img/h3.jpg"
                       alt=""
                       className="card-img-top"
                       ref="box1"
@@ -61,7 +61,6 @@ export default class AboutSection extends Component {
                   <p></p>
                   <p>רק החומרים איכותיים והחדישים ביותר הקיימים בשוק</p>
                   <p> טכניקות מודרניות לעיצוב וטיפול בשיער</p>
-                  <p>איפור ותסרוקות לכל אירוע </p>
                   <p>איפור ותסרוקות לכל אירוע </p>
                   <p>ייעוץ אישי בכל הנוגע לטיפול בשיער </p>
                   <p> </p>
