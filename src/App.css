@@ -193,4 +193,8 @@ nav {
   .intro-text-res {
     font-size: 1.5rem !important;
   }
+
+  .small-res {
+    font-size: 0.8rem !important;
+  }
 }
