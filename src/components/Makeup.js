@@ -35,8 +35,8 @@ export default class extends Component {
             </div>
 
             <p className="lead text-muted small-res">
-              איפור ותסרוקת לכל האירוע! ניסיון רב ועשיר תחום. פשוט לאהוב את עצמך
-              מחדש
+              איפור ותסרוקת לכל האירוע! ניסיון רב ועשיר בתחום. פשוט לאהוב את
+              עצמך מחדש
             </p>
           </div>
         </div>

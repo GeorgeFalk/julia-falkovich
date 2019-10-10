@@ -35,7 +35,7 @@ export default class Men extends Component {
             </div>
 
             <p className="lead text-muted small-res">
-              התמחות רבה בתספורת גברים! שירותי ברבר, תספורות, צביעת שיער. תספורת
+              התמחות רבה בתספורת גברים! שירותי ברבר, תספורות, צביעת שיער, תספורת
               זקן ועוד... יועץ וליווי אישי
             </p>
           </div>
