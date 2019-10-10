@@ -186,4 +186,10 @@ nav {
     background-attachment: fixed;
     position: relative;
   }
+
+  #intro-section {
+    background: var(--mainGrey);
+    margin-top: 130px;
+    overflow: hidden;
+  }
 }
