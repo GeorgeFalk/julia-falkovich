@@ -6,7 +6,7 @@ export default class Intro extends Component {
     return (
       <React.Fragment>
         <div className="container">
-          <div className="py-5 px-5" style={{ "margin-top": "-120px" }}>
+          <div className="py px" style={{ "margin-top": "-90px" }}>
             <h2
               className="logo-font text-center logo-res"
               style={{ "font-size": "5rem" }}
