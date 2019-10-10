@@ -18,6 +18,7 @@ export default class Men extends Component {
             </h1>
 
             <TitleUnderline />
+            <p>0559-888-336</p>
             <p className="muted ">
               אנו מזמנים אתכם לבקר אצלנו בסטודיו לעיצוב שיער ואיפור מקצועי לכל
               אירוע ולקבל חוייה מדהימה מיחס אישי כלפי כל לקוח

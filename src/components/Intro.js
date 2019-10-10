@@ -5,8 +5,8 @@ export default class Intro extends Component {
   render() {
     return (
       <React.Fragment>
-        <div className="container">
-          <div className="">
+        <div className="container intro-info">
+          <div>
             <h2
               className="logo-font text-center logo-res"
               style={{ "font-size": "5rem" }}
@@ -21,6 +21,7 @@ export default class Intro extends Component {
             </h1>
 
             <TitleUnderline />
+            <p>0559-888-336</p>
             <p className="muted ">
               אנו מזמנים אתכם לבקר אצלנו בסטודיו לעיצוב שיער ואיפור מקצועי לכל
               אירוע ולקבל חוייה מדהימה מיחס אישי כלפי כל לקוח
@@ -36,7 +37,7 @@ export default class Intro extends Component {
               </div>
             </div>
 
-            <p className="lead text-muted mb-3">
+            <p className="lead text-muted">
               ג'וליה פלקוביץ' היא מעצבת שיער ומאפרת מקצועית בעלת ניסיון רב ועשיר
               עם יכולת לספק שירות מקצועי ואישי לכל רצון של לקוח
             </p>
