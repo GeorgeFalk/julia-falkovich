@@ -8,12 +8,12 @@ export default class Intro extends Component {
         <div className="container">
           <div className="py-5 px-5" style={{ "margin-top": "-120px" }}>
             <h2
-              className="logo-font text-center"
+              className="logo-font text-center logo-res"
               style={{ "font-size": "5rem" }}
             >
               Julia Falkovich
             </h2>
-            <h1>
+            <h1 className="intro-text-res">
               חיפה, רחוב נורדאו 19
               <span>
                 <i class="fas fa-map-marked-alt mx-3"></i>

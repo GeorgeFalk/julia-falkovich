@@ -6,10 +6,10 @@ export default class PhoneContact extends Component {
       <React.Fragment>
         <section id="phone-contact">
           <div className="container" id="gallery-form">
-            <div className="row align-items-center justify-content-center">
+            <div className="row align-items-center justify-content-center text-center">
               <div
-                className="col-10 mx-auto col-md-6 my-3 text-light text-canter mx-auto"
-                style={{ "font-size": "1.3rem" }}
+                className="col-10 mx-auto col-md-6 my-3 text-light  mx-auto"
+                style={{ "font-size": "1rem" }}
               >
                 שלח מספר טלפון שלך ליצירת קשר
                 <span className="contact-icon mx-3">

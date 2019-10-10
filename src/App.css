@@ -187,9 +187,10 @@ nav {
     position: relative;
   }
 
-  #intro-section {
-    background: var(--mainGrey);
-    margin-top: 130px;
-    overflow: hidden;
+  .logo-res {
+    font-size: 2.3rem !important;
+  }
+  .intro-text-res {
+    font-size: 1.5rem !important;
   }
 }
