@@ -22,7 +22,7 @@ export default class Intro extends Component {
 
             <TitleUnderline />
             <p>0559-888-336</p>
-            <p className="muted">
+            <p className="muted d-none d-md-block">
               אנו מזמנים אתכם לבקר אצלנו בסטודיו לעיצוב שיער ואיפור מקצועי לכל
               אירוע ולקבל חוייה מדהימה מיחס אישי כלפי כל לקוח
             </p>
@@ -37,7 +37,7 @@ export default class Intro extends Component {
               </div>
             </div>
 
-            <p className="lead text-muted res-text">
+            <p className="lead text-muted small-res">
               ג'וליה פלקוביץ' היא מעצבת שיער ומאפרת מקצועית בעלת ניסיון רב ועשיר
               עם יכולת לספק שירות מקצועי ואישי לכל רצון של לקוח
             </p>
