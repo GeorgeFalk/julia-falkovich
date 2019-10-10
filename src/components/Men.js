@@ -6,7 +6,7 @@ export default class Men extends Component {
     return (
       <React.Fragment>
         <div className="container">
-          <div className="py-5 px-5 logo-res">
+          <div className="logo-res">
             <h2 className="logo-font logo-res" style={{ "font-size": "5rem" }}>
               Julia Falkovich
             </h2>

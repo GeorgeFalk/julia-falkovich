@@ -6,7 +6,7 @@ export default class Intro extends Component {
     return (
       <React.Fragment>
         <div className="container intro-info">
-          <div>
+          <div className="logo-res">
             <h2
               className="logo-font text-center logo-res"
               style={{ "font-size": "5rem" }}
