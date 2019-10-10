@@ -37,7 +37,7 @@ export default class IntroSection extends Component {
         <section id="intro-section">
           <div className="container-fluid">
             <div className="row align-items-center ">
-              <div className="col-lg-5 text-center intro-info d-flex align-items-center justify-content-center">
+              <div className="col-lg-5 text-center intro-info d-flex justify-content-center">
                 <div ref="box1">
                   <Switch>
                     <Route exact path="/" component={Intro} />

@@ -40,7 +40,6 @@ nav {
 
 .face-book {
   text-decoration: none !important;
-
   width: 3rem;
   transition: 0.3s all ease;
   background: transparent;
@@ -196,5 +195,9 @@ nav {
 
   .small-res {
     font-size: 0.8rem !important;
+  }
+
+  .intro-info {
+    min-height: calc(110vh - 98px);
   }
 }
