@@ -27,6 +27,7 @@ export default class AboutSection extends Component {
     return (
       <React.Fragment>
         <section id="about-section" className="py-5">
+          <img src="../img/h3.jpg" alt="" className="card-img-top" ref="box1" />
           <div className="container my-5">
             <div className="row align-items-center">
               <div className="col-10 col-md-6 mx-auto ">
@@ -54,7 +55,7 @@ export default class AboutSection extends Component {
                 </h3>
                 <h1 className="">?ומה ניתן לקבל</h1>
                 <TitleUnderline />
-                <div className="text-muted lead mt-3 text-center">
+                <div className="text-muted lead mt-3 text-center  ">
                   <p>תספורות נשים, גברים וילדים לכל גיל</p>
                   <p>איפור ותסרוקות לכל אירוע </p>
                   <p>רק החומרים איכותיים והחדישים ביותר הקיימים בשוק</p>
