@@ -48,13 +48,13 @@ export default class AboutSection extends Component {
                   </div>
                 </div>
               </div>
-              <div className="col-10 col-md-6 mx-auto my-3 text-center ">
+              <div className="col-10 col-md-6 mx-auto my-3 text-center">
                 <h3 className="logo-font" style={{ "font-size": "3rem" }}>
                   About Us
                 </h3>
                 <h1 className="">?ומה ניתן לקבל</h1>
                 <TitleUnderline />
-                <div className="text-muted lead mt-3 text-center  ">
+                <div className="text-muted lead mt-3 text-center ">
                   <p>תספורות נשים, גברים וילדים לכל גיל</p>
                   <p>איפור ותסרוקות לכל אירוע </p>
                   <p>רק החומרים איכותיים והחדישים ביותר הקיימים בשוק</p>
