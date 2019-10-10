@@ -22,7 +22,7 @@ export default class Intro extends Component {
 
             <TitleUnderline />
             <p>0559-888-336</p>
-            <p className="muted d-none d-md-block">
+            <p className="muted small-res">
               אנו מזמנים אתכם לבקר אצלנו בסטודיו לעיצוב שיער ואיפור מקצועי לכל
               אירוע ולקבל חוייה מדהימה מיחס אישי כלפי כל לקוח
             </p>
