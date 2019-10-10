@@ -6,7 +6,7 @@ export default class Intro extends Component {
     return (
       <React.Fragment>
         <div className="container">
-          <div className="" style={{ "margin-top": "-40px" }}>
+          <div className="">
             <h2
               className="logo-font text-center logo-res"
               style={{ "font-size": "5rem" }}

@@ -29,8 +29,8 @@ export default class extends Component {
         </div>
         <div className="row copyright text-center">
           <div className="col-12 mx-auto">
-            <h3>
-              (c) 2020 developed by{" "}
+            <h3 style={{ "font-size": "1.3rem" }}>
+              (c) Developed by{" "}
               <a href={"//www.george-falkovich.com"} target="_blank">
                 George Falkovich
               </a>
