@@ -36,7 +36,10 @@ export default class extends Component {
         <div className="container-fluid">
           <div className="row mx-5">
             <div className="col text-center my-0">
-              <p className="logo-font mb-0" style={{ "font-size": "5rem" }}>
+              <p
+                className="logo-font mb-0 text-center mx-auto"
+                style={{ "font-size": "5rem" }}
+              >
                 Julia Falkovich
               </p>
               <h1 className="">גלריה</h1>

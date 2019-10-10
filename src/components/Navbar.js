@@ -24,7 +24,7 @@ export default class Navbar extends Component {
           <Link to="/#html">
             <a
               href=""
-              className="navbar-brand logo-font"
+              className="navbar-brand logo-font text-canter mx-auto"
               style={{ "font-size": "3rem" }}
               ref="box"
             >

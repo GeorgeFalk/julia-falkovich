@@ -7,7 +7,10 @@ export default class Intro extends Component {
       <React.Fragment>
         <div className="container">
           <div className="py-5 px-5" style={{ "margin-top": "-120px" }}>
-            <h2 className="logo-font" style={{ "font-size": "5rem" }}>
+            <h2
+              className="logo-font text-center"
+              style={{ "font-size": "5rem" }}
+            >
               Julia Falkovich
             </h2>
             <h1>

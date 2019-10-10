@@ -60,7 +60,7 @@ nav {
 }
 
 .intro-info {
-  height: calc(100vh - 98px);
+  min-height: calc(100vh - 98px);
 }
 
 .intro-info-footer {
@@ -97,7 +97,7 @@ nav {
 }
 
 .about-info {
-  height: 100vh !important;
+  min-height: 100vh !important;
 }
 
 /* phone contact */

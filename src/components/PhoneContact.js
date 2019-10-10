@@ -8,8 +8,8 @@ export default class PhoneContact extends Component {
           <div className="container" id="gallery-form">
             <div className="row align-items-center justify-content-center">
               <div
-                className="col-10 mx-auto col-md-6 my-3 text-light"
-                style={{ "font-size": "1.5rem" }}
+                className="col-10 mx-auto col-md-6 my-3 text-light text-canter mx-auto"
+                style={{ "font-size": "1.3rem" }}
               >
                 שלח מספר טלפון שלך ליצירת קשר
                 <span className="contact-icon mx-3">
