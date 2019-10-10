@@ -20,7 +20,9 @@ export default class extends Component {
               </div>
             </div>
             <div className="col-10 mx-auto col-lg-6 text-center contacts-info d-flex flex-column justify-content-center">
-              <h1 className="logo-font text-capitalize">julia falkovich</h1>
+              <h1 className="logo-font text-capitalize mt-2">
+                julia falkovich
+              </h1>
               <p>מוזמנים להגיע אלינו</p>
               <p>כתובת: חיפה, נורדאו 19</p>
               <p>בתאום מראש בטלפון 0559888336</p>
@@ -29,7 +31,7 @@ export default class extends Component {
         </div>
         <div className="row copyright text-center">
           <div className="col-12 mx-auto mt-3">
-            <h3 style={{ "font-size": "1.3rem" }}>
+            <h3 style={{ "font-size": "1.1rem" }}>
               (c) Developed by{" "}
               <a href={"//www.george-falkovich.com"} target="_blank">
                 George Falkovich
