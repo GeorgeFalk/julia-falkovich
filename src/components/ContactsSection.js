@@ -35,7 +35,7 @@ export default class extends Component {
               (c) Developed by{" "}
               <a
                 href={
-                  "//https://www.facebook.com/people/George-Falkovich/100013295447810"
+                  "//https://www.facebook.com/profile.php?id=100013295447810"
                 }
                 target="_blank"
               >
