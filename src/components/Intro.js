@@ -22,7 +22,10 @@ export default class Intro extends Component {
 
             <TitleUnderline />
             <p>0559-888-336</p>
-            <p className="muted small-res">סטודיו לעיצוב שיער ואיפור מקצועי</p>
+            <p className="muted small-res">
+              אנו מזמנים אתכם לבקר אצלנו בסטודיו לעיצוב שיער ואיפור מקצועי לכל
+              אירוע ולקבל חוייה מדהימה מיחס אישי כלפי כל לקוח
+            </p>
             <div className="row">
               <div className="col-10 mx-auto mb-3">
                 <div className="img-container ">
