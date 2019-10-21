@@ -22,10 +22,7 @@ export default class Intro extends Component {
 
             <TitleUnderline />
             <p>0559-888-336</p>
-            <p className="muted small-res">
-              אנו מזמנים אתכם לבקר אצלנו בסטודיו לעיצוב שיער ואיפור מקצועי לכל
-              אירוע ולקבל חוייה מדהימה מיחס אישי כלפי כל לקוח
-            </p>
+            <p className="muted small-res">סטודיו לעיצוב שיער ואיפור מקצועי</p>
             <div className="row">
               <div className="col-10 mx-auto mb-3">
                 <div className="img-container ">
@@ -36,11 +33,6 @@ export default class Intro extends Component {
                 </div>
               </div>
             </div>
-
-            <p className="lead text-muted small-res">
-              ג'וליה פלקוביץ' היא מעצבת שיער ומאפרת מקצועית בעלת ניסיון רב ועשיר
-              עם יכולת לספק שירות מקצועי ואישי לכל רצון של לקוח
-            </p>
           </div>
         </div>
       </React.Fragment>
