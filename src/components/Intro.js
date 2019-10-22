@@ -5,7 +5,7 @@ export default class Intro extends Component {
   render() {
     return (
       <React.Fragment>
-        <div className="container">
+        <div className="container mt-3">
           <div className="">
             <h2
               className="logo-font text-center logo-res"
@@ -36,11 +36,6 @@ export default class Intro extends Component {
                 </div>
               </div>
             </div>
-
-            <p className="lead text-muted small-res">
-              ג'וליה פלקוביץ' היא מעצבת שיער ומאפרת מקצועית בעלת ניסיון רב ועשיר
-              עם יכולת לספק שירות מקצועי ואישי לכל רצון של לקוח
-            </p>
           </div>
         </div>
       </React.Fragment>
