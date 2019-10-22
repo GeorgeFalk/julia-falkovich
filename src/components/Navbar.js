@@ -46,7 +46,7 @@ export default class Navbar extends Component {
           >
             <ul
               className="navbar-nav text-center"
-              style={{ "font-size": "1.2em" }}
+              style={{ "font-size": "1em" }}
             >
               {/* Links */}
 
@@ -98,7 +98,12 @@ export default class Navbar extends Component {
               <span className="phone-icon m-0 mx-3">
                 <i className="fas fa fa-phone fa-fw"></i>
               </span>
-              0559-888-336
+              <span
+                className="text-white mx-4"
+                style={{ "font-size": "1.2rem" }}
+              >
+                0559-888-336
+              </span>
             </span>
             <span className="text-white" style={{ "font-size": "2.5rem" }}>
               <a href={"//www.facebook.com/JuliaFalkovichBS"} target="_blank">

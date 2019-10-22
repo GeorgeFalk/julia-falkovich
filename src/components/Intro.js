@@ -9,7 +9,7 @@ export default class Intro extends Component {
           <div className="">
             <h2
               className="logo-font text-center logo-res"
-              style={{ "font-size": "5rem" }}
+              style={{ "font-size": "2rem" }}
             >
               Julia Falkovich
             </h2>

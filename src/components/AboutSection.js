@@ -52,6 +52,10 @@ export default class AboutSection extends Component {
                 <h3 className="logo-font" style={{ "font-size": "3rem" }}>
                   About Us
                 </h3>
+                <p className="text-muted lead text-center">
+                  ג'וליה פלקוביץ' היא מעצבת שיער ומאפרת מקצועית בעלת ניסיון רב
+                  ועשיר עם יכולת לספק שירות מקצועי ואישי לכל רצון של לקוח
+                </p>
                 <h1 className="">?ומה ניתן לקבל</h1>
                 <TitleUnderline />
                 <div className="text-muted lead mt-3 text-center ">

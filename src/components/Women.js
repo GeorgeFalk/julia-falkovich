@@ -7,7 +7,7 @@ export default class Women extends Component {
       <React.Fragment>
         <div className="container">
           <div className="">
-            <h2 className="logo-font logo-res" style={{ "font-size": "5rem" }}>
+            <h2 className="logo-font logo-res" style={{ "font-size": "2rem" }}>
               Julia Falkovich
             </h2>
             <h1 className="intro-text-res">

@@ -7,7 +7,7 @@ export default class Men extends Component {
       <React.Fragment>
         <div className="container">
           <div className="">
-            <h2 className="logo-font logo-res" style={{ "font-size": "5rem" }}>
+            <h2 className="logo-font logo-res" style={{ "font-size": "2rem" }}>
               Julia Falkovich
             </h2>
             <h1 className="intro-text-res">
@@ -19,10 +19,7 @@ export default class Men extends Component {
 
             <TitleUnderline />
             <p>0559-888-336</p>
-            <p className="muted small-res d-none d-md-block">
-              אנו מזמנים אתכם לבקר אצלנו בסטודיו לעיצוב שיער ואיפור מקצועי לכל
-              אירוע ולקבל חוייה מדהימה מיחס אישי כלפי כל לקוח
-            </p>
+
             <div className="row">
               <div className="col-10 mx-auto mb-3">
                 <div className="img-container ">
