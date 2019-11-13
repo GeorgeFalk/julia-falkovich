@@ -33,12 +33,7 @@ export default class extends Component {
           <div className="col-12 mx-auto mt-3">
             <h3 style={{ "font-size": "1.1rem" }}>
               (c) Developed by{" "}
-              <a
-                href={
-                  "//https://www.facebook.com/profile.php?id=100013295447810"
-                }
-                target="_blank"
-              >
+              <a href={"http://george-falkovich.com/"} target="_blank">
                 George Falkovich
               </a>
             </h3>
