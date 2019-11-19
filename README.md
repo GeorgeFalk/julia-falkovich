@@ -1,5 +1,7 @@
 Web site for Hair-Design salon. Build fully with react
 
+Design&&Code&&Photography
+
 visit it on
 
 www.julia-falkovich.com
