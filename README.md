@@ -1,3 +1,10 @@
+Web site for Hair-Design salon. Build fully with react
+
+visit it on
+
+www.julia-falkovich.com
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
