@@ -4,7 +4,7 @@ Design&&Code&&Photography
 
 visit it on
 
-www.julia-falkovich.com
+https://www.julia-falkovich.co.il/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
